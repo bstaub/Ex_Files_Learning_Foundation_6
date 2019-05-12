@@ -1,0 +1,11 @@
+@media screen and (min-width: 40em) {
+	h2 {
+		font-size: 1.75em;
+	}
+	h3 {
+		font-size: 1.375em;
+	}
+}
+img.float-right {
+	margin: 0 0 1em 1em;
+}

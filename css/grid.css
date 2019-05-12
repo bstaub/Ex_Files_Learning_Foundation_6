@@ -1,0 +1,10 @@
+.cell {
+  background: #1779ba;
+  line-height: 50px;
+  color: white;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.cell:nth-child(odd) {
+  background: #37a0e6;
+}

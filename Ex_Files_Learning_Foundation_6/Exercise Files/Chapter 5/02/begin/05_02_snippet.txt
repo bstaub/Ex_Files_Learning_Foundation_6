@@ -1,0 +1,14 @@
+<!-- modal window for subscribe button - place this HTML anywhere -->
+    <div class="reveal" id="subscribe" data-reveal>
+      <h3>Subscribe to my newsletter</h3>
+      <p>Get amazing recipes, beautiful cake photos, and more sent to your inbox each week!</p>
+      <form>
+        <label>Email address:
+          <input type="email">
+        </label>
+        <button class="button hollow primary">Subscribe!</button>
+      </form>
+      <button class="close-button" data-close aria-label="Close modal" type="button">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>

@@ -1,0 +1,13 @@
+ Left and right arrows
+            <div class="orbit-controls">
+              <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
+              <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
+            </div>
+
+Bullet navigation
+          <nav class="orbit-bullets">
+            <button class="is-active" data-slide="0"><span class="show-for-sr">White cake with lillies.</span><span class="show-for-sr">Current Slide</span></button>
+            <button data-slide="1"><span class="show-for-sr">Autumn cake, white and brown with orange bouquet of flowers on top.</span></button>
+            <button data-slide="2"><span class="show-for-sr">Classic white cake with red flowers.</span></button>
+            <button data-slide="3"><span class="show-for-sr">Simple white cake with several kinds of flowers.</span></button>
+          </nav>
